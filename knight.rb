@@ -34,9 +34,7 @@ def knight_moves(start, destination)
       queue.shift
     end
   end
-  until path[0] == knight
-    path.unshift path[0].parent
-  end
+  path.unshift path[0].parent until path[0] == knight
   puts "To get from #{start} to #{destination} with your knight, you need to take this path:"
   print path.map(&:position)
   puts
