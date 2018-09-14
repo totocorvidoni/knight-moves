@@ -1,0 +1,1030 @@
+=> [32m#<KnightMovement:0x0000000003bd31e0[0m
+ @children[32m=[0m
+  [[32m#<KnightMovement:0x0000000003bd1ed0[0m
+    @children[32m=[0m
+     [[32m#<KnightMovement:0x0000000003bd14f8[0m
+       @children[32m=[0m
+        [[32m#<KnightMovement:0x0000000003bd0a80[0m
+          @children[32m=[0m
+           [[32m#<KnightMovement:0x0000000003bd00a8[0m
+             @children[32m=[0m
+              [[32m#<KnightMovement:0x0000000003b7e550[0m
+                @children[32m=[0m
+                 [[32m#<KnightMovement:0x0000000003b7d718[0m
+                   @children[32m=[0m
+                    [[32m#<KnightMovement:0x0000000003b7cca0[0m
+                      @children[32m=[0m
+                       [[32m#<KnightMovement:0x0000000003b7c2c8[0m
+                         @children[32m=[0m
+                          [[32m#<KnightMovement:0x0000000003bdf990[0m
+                            @children[32m=[0m
+                             [[32m#<KnightMovement:0x0000000003bdf008[0m
+                               @children[32m=[0m[],
+                               @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdf990[0m ...[32m>[0m,
+                               @position[32m=[0m[[1;34m8[0m, [1;34m8[0m][32m>[0m,
+                              [32m#<KnightMovement:0x0000000003bde7c0[0m
+                               @children[32m=[0m
+                                [[32m#<KnightMovement:0x0000000003bdde88[0m
+                                  @children[32m=[0m
+                                   [[32m#<KnightMovement:0x0000000003bdd550[0m
+                                     @children[32m=[0m
+                                      [[32m#<KnightMovement:0x0000000003bdcb28[0m
+                                        @children[32m=[0m
+                                         [[32m#<KnightMovement:0x0000000003bdc1a0[0m
+                                           @children[32m=[0m
+                                            [[32m#<KnightMovement:0x0000000003b77868[0m
+                                              @children[32m=[0m
+                                               [[32m#<KnightMovement:0x0000000003b76e40[0m
+                                                 @children[32m=[0m
+                                                  [[32m#<KnightMovement:0x0000000003b765a8[0m
+                                                    @children[32m=[0m
+                                                     [[32m#<KnightMovement:0x0000000003b75c98[0m
+                                                       @children[32m=[0m
+                                                        [[32m#<KnightMovement:0x0000000003b75310[0m
+                                                          @children[32m=[0m
+                                                           [[32m#<KnightMovement:0x0000000003be3a18[0m
+                                                             @children[32m=[0m
+                                                              [[32m#<KnightMovement:0x0000000003be3090[0m
+                                                                @children[32m=[0m
+                                                                 [[32m#<KnightMovement:0x0000000003be2708[0m
+                                                                   @children[32m=[0m
+                                                                    [[32m#<KnightMovement:0x0000000003be1d30[0m
+                                                                      @children[32m=[0m
+                                                                       [[32m#<KnightMovement:0x0000000003be1448[0m
+                                                                         @children[32m=[0m
+                                                                          [[32m#<KnightMovement:0x0000000003be0b60[0m
+                                                                            @children[32m=[0m
+                                                                             [[32m#<KnightMovement:0x0000000003be01d8[0m
+                                                                               @children[32m=[0m
+                                                                                [[32m#<KnightMovement:0x0000000003b6f848[0m
+                                                                                  @children[32m=[0m
+                                                                                   [[32m#<KnightMovement:0x0000000003b6ee70[0m
+                                                                                     @children[32m=[0m
+                                                                                      [[32m#<KnightMovement:0x0000000003b6e538[0m
+                                                                                        @children[32m=[0m
+                                                                                         [[32m#<KnightMovement:0x0000000003b6dbb0[0m
+                                                                                           @children[32m=[0m
+                                                                                            [[32m#<KnightMovement:0x0000000003b6d318[0m
+                                                                                              @children[32m=[0m
+                                                                                               [[32m#<KnightMovement:0x0000000003b6ca30[0m
+                                                                                                 @children[32m=[0m
+                                                                                                  [[32m#<KnightMovement:0x0000000003b6c0a8[0m
+                                                                                                    @children[32m=[0m
+                                                                                                     [[32m#<KnightMovement:0x0000000003be77d0[0m
+                                                                                                       @children[32m=[0m
+                                                                                                        [[32m#<KnightMovement:0x0000000003be6e98[0m
+                                                                                                          @children[32m=[0m
+                                                                                                           [[32m#<KnightMovement:0x0000000003be6600[0m
+                                                                                                             @children[32m=[0m
+                                                                                                              [[32m#<KnightMovement:0x0000000003be5d68[0m
+                                                                                                                @children[32m=[0m
+                                                                                                                 [[32m#<KnightMovement:0x0000000003be5430[0m
+                                                                                                                   @children[32m=[0m
+                                                                                                                    [[32m#<KnightMovement:0x0000000003be4b48[0m
+                                                                                                                      @children[32m=[0m
+                                                                                                                       [[32m#<KnightMovement:0x0000000003be4210[0m
+                                                                                                                         @children[32m=[0m
+                                                                                                                          [[32m#<KnightMovement:0x0000000003b67940[0m
+                                                                                                                            @children[32m=[0m
+                                                                                                                             [[32m#<KnightMovement:0x0000000003b670a8[0m
+                                                                                                                               @children[32m=[0m
+                                                                                                                                [[32m#<KnightMovement:0x0000000003b66720[0m
+                                                                                                                                  @children[32m=[0m
+                                                                                                                                   [[32m#<KnightMovement:0x0000000003b65e38[0m
+                                                                                                                                     @children[32m=[0m
+                                                                                                                                      [[32m#<KnightMovement:0x0000000003b65500[0m
+                                                                                                                                        @children[32m=[0m
+                                                                                                                                         [[32m#<KnightMovement:0x0000000003b64b28[0m
+                                                                                                                                           @children[32m=[0m
+                                                                                                                                            [[32m#<KnightMovement:0x0000000003b64240[0m
+                                                                                                                                              @children[32m=[0m
+                                                                                                                                               [],
+                                                                                                                                              @parent[32m=[0m
+                                                                                                                                               [32m#<KnightMovement:0x0000000003b64b28[0m
+                                                                                                                                                ...[32m>[0m,
+                                                                                                                                              @position[32m=[0m
+                                                                                                                                               [[1;34m8[0m,
+                                                                                                                                                [1;34m1[0m][32m>[0m,
+                                                                                                                                             [32m#<KnightMovement:0x0000000003beb9c0[0m
+                                                                                                                                              @children[32m=[0m
+                                                                                                                                               [[32m#<KnightMovement:0x0000000003beb0d8[0m
+                                                                                                                                                 @children[32m=[0m
+                                                                                                                                                  [[32m#<KnightMovement:0x0000000003bea7f0[0m
+                                                                                                                                                    @children[32m=[0m
+                                                                                                                                                     [[32m#<KnightMovement:0x0000000003be9f08[0m
+                                                                                                                                                       @children[32m=[0m
+                                                                                                                                                        [],
+                                                                                                                                                       @parent[32m=[0m
+                                                                                                                                                        [32m#<KnightMovement:0x0000000003bea7f0[0m
+                                                                                                                                                         ...[32m>[0m,
+                                                                                                                                                       @position[32m=[0m
+                                                                                                                                                        [[1;34m1[0m,
+                                                                                                                                                         [1;34m5[0m][32m>[0m,
+                                                                                                                                                      [32m#<KnightMovement:0x0000000003be96c0[0m
+                                                                                                                                                       @children[32m=[0m
+                                                                                                                                                        [[32m#<KnightMovement:0x0000000003be8e28[0m
+                                                                                                                                                          @children[32m=[0m
+                                                                                                                                                           [[32m#<KnightMovement:0x0000000003be8590[0m
+                                                                                                                                                             @children[32m=[0m
+                                                                                                                                                              [[32m#<KnightMovement:0x0000000003b5fc68[0m
+                                                                                                                                                                @children[32m=[0m
+                                                                                                                                                                 [[32m#<KnightMovement:0x0000000003b5f3d0[0m
+                                                                                                                                                                   @children[32m=[0m
+                                                                                                                                                                    [[32m#<KnightMovement:0x0000000003b5eb38[0m
+                                                                                                                                                                      @children[32m=[0m
+                                                                                                                                                                       [],
+                                                                                                                                                                      @parent[32m=[0m
+                                                                                                                                                                       [32m#<KnightMovement:0x0000000003b5f3d0[0m
+                                                                                                                                                                        ...[32m>[0m,
+                                                                                                                                                                      @position[32m=[0m
+                                                                                                                                                                       [[1;34m1[0m,
+                                                                                                                                                                        [1;34m6[0m][32m>[0m],
+                                                                                                                                                                   @parent[32m=[0m
+                                                                                                                                                                    [32m#<KnightMovement:0x0000000003b5fc68[0m
+                                                                                                                                                                     ...[32m>[0m,
+                                                                                                                                                                   @position[32m=[0m
+                                                                                                                                                                    [[1;34m3[0m,
+                                                                                                                                                                     [1;34m5[0m][32m>[0m],
+                                                                                                                                                                @parent[32m=[0m
+                                                                                                                                                                 [32m#<KnightMovement:0x0000000003be8590[0m
+                                                                                                                                                                  ...[32m>[0m,
+                                                                                                                                                                @position[32m=[0m
+                                                                                                                                                                 [[1;34m1[0m,
+                                                                                                                                                                  [1;34m4[0m][32m>[0m,
+                                                                                                                                                               [32m#<KnightMovement:0x0000000003b5d300[0m
+                                                                                                                                                                @children[32m=[0m
+                                                                                                                                                                 [[32m#<KnightMovement:0x0000000003b5ca68[0m
+                                                                                                                                                                   @children[32m=[0m
+                                                                                                                                                                    [],
+                                                                                                                                                                   @parent[32m=[0m
+                                                                                                                                                                    [32m#<KnightMovement:0x0000000003b5d300[0m
+                                                                                                                                                                     ...[32m>[0m,
+                                                                                                                                                                   @position[32m=[0m
+                                                                                                                                                                    [[1;34m3[0m,
+                                                                                                                                                                     [1;34m1[0m][32m>[0m],
+                                                                                                                                                                @parent[32m=[0m
+                                                                                                                                                                 [32m#<KnightMovement:0x0000000003be8590[0m
+                                                                                                                                                                  ...[32m>[0m,
+                                                                                                                                                                @position[32m=[0m
+                                                                                                                                                                 [[1;34m1[0m,
+                                                                                                                                                                  [1;34m2[0m][32m>[0m],
+                                                                                                                                                             @parent[32m=[0m
+                                                                                                                                                              [32m#<KnightMovement:0x0000000003be8e28[0m
+                                                                                                                                                               ...[32m>[0m,
+                                                                                                                                                             @position[32m=[0m
+                                                                                                                                                              [[1;34m3[0m,
+                                                                                                                                                               [1;34m3[0m][32m>[0m],
+                                                                                                                                                          @parent[32m=[0m
+                                                                                                                                                           [32m#<KnightMovement:0x0000000003be96c0[0m
+                                                                                                                                                            ...[32m>[0m,
+                                                                                                                                                          @position[32m=[0m
+                                                                                                                                                           [[1;34m2[0m,
+                                                                                                                                                            [1;34m1[0m][32m>[0m],
+                                                                                                                                                       @parent[32m=[0m
+                                                                                                                                                        [32m#<KnightMovement:0x0000000003bea7f0[0m
+                                                                                                                                                         ...[32m>[0m,
+                                                                                                                                                       @position[32m=[0m
+                                                                                                                                                        [[1;34m1[0m,
+                                                                                                                                                         [1;34m3[0m][32m>[0m],
+                                                                                                                                                    @parent[32m=[0m
+                                                                                                                                                     [32m#<KnightMovement:0x0000000003beb0d8[0m
+                                                                                                                                                      ...[32m>[0m,
+                                                                                                                                                    @position[32m=[0m
+                                                                                                                                                     [[1;34m3[0m,
+                                                                                                                                                      [1;34m4[0m][32m>[0m,
+                                                                                                                                                   [32m#<KnightMovement:0x0000000003becb18[0m
+                                                                                                                                                    @children[32m=[0m
+                                                                                                                                                     [],
+                                                                                                                                                    @parent[32m=[0m
+                                                                                                                                                     [32m#<KnightMovement:0x0000000003beb0d8[0m
+                                                                                                                                                      ...[32m>[0m,
+                                                                                                                                                    @position[32m=[0m
+                                                                                                                                                     [[1;34m1[0m,
+                                                                                                                                                      [1;34m4[0m][32m>[0m],
+                                                                                                                                                 @parent[32m=[0m
+                                                                                                                                                  [32m#<KnightMovement:0x0000000003beb9c0[0m
+                                                                                                                                                   ...[32m>[0m,
+                                                                                                                                                 @position[32m=[0m
+                                                                                                                                                  [[1;34m2[0m,
+                                                                                                                                                   [1;34m2[0m][32m>[0m,
+                                                                                                                                                [32m#<KnightMovement:0x0000000003b5b2a8[0m
+                                                                                                                                                 @children[32m=[0m
+                                                                                                                                                  [],
+                                                                                                                                                 @parent[32m=[0m
+                                                                                                                                                  [32m#<KnightMovement:0x0000000003beb9c0[0m
+                                                                                                                                                   ...[32m>[0m,
+                                                                                                                                                 @position[32m=[0m
+                                                                                                                                                  [[1;34m3[0m,
+                                                                                                                                                   [1;34m3[0m][32m>[0m],
+                                                                                                                                              @parent[32m=[0m
+                                                                                                                                               [32m#<KnightMovement:0x0000000003b64b28[0m
+                                                                                                                                                ...[32m>[0m,
+                                                                                                                                              @position[32m=[0m
+                                                                                                                                               [[1;34m4[0m,
+                                                                                                                                                [1;34m1[0m][32m>[0m],
+                                                                                                                                           @parent[32m=[0m
+                                                                                                                                            [32m#<KnightMovement:0x0000000003b65500[0m
+                                                                                                                                             ...[32m>[0m,
+                                                                                                                                           @position[32m=[0m
+                                                                                                                                            [[1;34m6[0m,
+                                                                                                                                             [1;34m2[0m][32m>[0m,
+                                                                                                                                          [32m#<KnightMovement:0x0000000003b58b20[0m
+                                                                                                                                           @children[32m=[0m
+                                                                                                                                            [],
+                                                                                                                                           @parent[32m=[0m
+                                                                                                                                            [32m#<KnightMovement:0x0000000003b65500[0m
+                                                                                                                                             ...[32m>[0m,
+                                                                                                                                           @position[32m=[0m
+                                                                                                                                            [[1;34m2[0m,
+                                                                                                                                             [1;34m2[0m][32m>[0m,
+                                                                                                                                          [32m#<KnightMovement:0x0000000003b582d8[0m
+                                                                                                                                           @children[32m=[0m
+                                                                                                                                            [[32m#<KnightMovement:0x0000000003bf3a08[0m
+                                                                                                                                              @children[32m=[0m
+                                                                                                                                               [],
+                                                                                                                                              @parent[32m=[0m
+                                                                                                                                               [32m#<KnightMovement:0x0000000003b582d8[0m
+                                                                                                                                                ...[32m>[0m,
+                                                                                                                                              @position[32m=[0m
+                                                                                                                                               [[1;34m7[0m,
+                                                                                                                                                [1;34m2[0m][32m>[0m],
+                                                                                                                                           @parent[32m=[0m
+                                                                                                                                            [32m#<KnightMovement:0x0000000003b65500[0m
+                                                                                                                                             ...[32m>[0m,
+                                                                                                                                           @position[32m=[0m
+                                                                                                                                            [[1;34m5[0m,
+                                                                                                                                             [1;34m1[0m][32m>[0m,
+                                                                                                                                          [32m#<KnightMovement:0x0000000003bf29f0[0m
+                                                                                                                                           @children[32m=[0m
+                                                                                                                                            [],
+                                                                                                                                           @parent[32m=[0m
+                                                                                                                                            [32m#<KnightMovement:0x0000000003b65500[0m
+                                                                                                                                             ...[32m>[0m,
+                                                                                                                                           @position[32m=[0m
+                                                                                                                                            [[1;34m3[0m,
+                                                                                                                                             [1;34m5[0m][32m>[0m,
+                                                                                                                                          [32m#<KnightMovement:0x0000000003bf21a8[0m
+                                                                                                                                           @children[32m=[0m
+                                                                                                                                            [],
+                                                                                                                                           @parent[32m=[0m
+                                                                                                                                            [32m#<KnightMovement:0x0000000003b65500[0m
+                                                                                                                                             ...[32m>[0m,
+                                                                                                                                           @position[32m=[0m
+                                                                                                                                            [[1;34m3[0m,
+                                                                                                                                             [1;34m1[0m][32m>[0m],
+                                                                                                                                        @parent[32m=[0m
+                                                                                                                                         [32m#<KnightMovement:0x0000000003b65e38[0m
+                                                                                                                                          ...[32m>[0m,
+                                                                                                                                        @position[32m=[0m
+                                                                                                                                         [[1;34m4[0m,
+                                                                                                                                          [1;34m3[0m][32m>[0m,
+                                                                                                                                       [32m#<KnightMovement:0x0000000003b571f8[0m
+                                                                                                                                        @children[32m=[0m
+                                                                                                                                         [],
+                                                                                                                                        @parent[32m=[0m
+                                                                                                                                         [32m#<KnightMovement:0x0000000003b65e38[0m
+                                                                                                                                          ...[32m>[0m,
+                                                                                                                                        @position[32m=[0m
+                                                                                                                                         [[1;34m1[0m,
+                                                                                                                                          [1;34m6[0m][32m>[0m,
+                                                                                                                                       [32m#<KnightMovement:0x0000000003b569b0[0m
+                                                                                                                                        @children[32m=[0m
+                                                                                                                                         [],
+                                                                                                                                        @parent[32m=[0m
+                                                                                                                                         [32m#<KnightMovement:0x0000000003b65e38[0m
+                                                                                                                                          ...[32m>[0m,
+                                                                                                                                        @position[32m=[0m
+                                                                                                                                         [[1;34m1[0m,
+                                                                                                                                          [1;34m2[0m][32m>[0m],
+                                                                                                                                     @parent[32m=[0m
+                                                                                                                                      [32m#<KnightMovement:0x0000000003b66720[0m
+                                                                                                                                       ...[32m>[0m,
+                                                                                                                                     @position[32m=[0m
+                                                                                                                                      [[1;34m2[0m,
+                                                                                                                                       [1;34m4[0m][32m>[0m,
+                                                                                                                                    [32m#<KnightMovement:0x0000000003b549f8[0m
+                                                                                                                                     @children[32m=[0m
+                                                                                                                                      [],
+                                                                                                                                     @parent[32m=[0m
+                                                                                                                                      [32m#<KnightMovement:0x0000000003b66720[0m
+                                                                                                                                       ...[32m>[0m,
+                                                                                                                                     @position[32m=[0m
+                                                                                                                                      [[1;34m3[0m,
+                                                                                                                                       [1;34m3[0m][32m>[0m],
+                                                                                                                                  @parent[32m=[0m
+                                                                                                                                   [32m#<KnightMovement:0x0000000003b670a8[0m
+                                                                                                                                    ...[32m>[0m,
+                                                                                                                                  @position[32m=[0m
+                                                                                                                                   [[1;34m4[0m,
+                                                                                                                                    [1;34m5[0m][32m>[0m,
+                                                                                                                                 [32m#<KnightMovement:0x0000000003bf71a8[0m
+                                                                                                                                  @children[32m=[0m
+                                                                                                                                   [],
+                                                                                                                                  @parent[32m=[0m
+                                                                                                                                   [32m#<KnightMovement:0x0000000003b670a8[0m
+                                                                                                                                    ...[32m>[0m,
+                                                                                                                                  @position[32m=[0m
+                                                                                                                                   [[1;34m3[0m,
+                                                                                                                                    [1;34m4[0m][32m>[0m,
+                                                                                                                                 [32m#<KnightMovement:0x0000000003bf6960[0m
+                                                                                                                                  @children[32m=[0m
+                                                                                                                                   [],
+                                                                                                                                  @parent[32m=[0m
+                                                                                                                                   [32m#<KnightMovement:0x0000000003b670a8[0m
+                                                                                                                                    ...[32m>[0m,
+                                                                                                                                  @position[32m=[0m
+                                                                                                                                   [[1;34m1[0m,
+                                                                                                                                    [1;34m8[0m][32m>[0m,
+                                                                                                                                 [32m#<KnightMovement:0x0000000003bf6118[0m
+                                                                                                                                  @children[32m=[0m
+                                                                                                                                   [],
+                                                                                                                                  @parent[32m=[0m
+                                                                                                                                   [32m#<KnightMovement:0x0000000003b670a8[0m
+                                                                                                                                    ...[32m>[0m,
+                                                                                                                                  @position[32m=[0m
+                                                                                                                                   [[1;34m1[0m,
+                                                                                                                                    [1;34m4[0m][32m>[0m],
+                                                                                                                               @parent[32m=[0m
+                                                                                                                                [32m#<KnightMovement:0x0000000003b67940[0m
+                                                                                                                                 ...[32m>[0m,
+                                                                                                                               @position[32m=[0m
+                                                                                                                                [[1;34m2[0m,
+                                                                                                                                 [1;34m6[0m][32m>[0m],
+                                                                                                                            @parent[32m=[0m
+                                                                                                                             [32m#<KnightMovement:0x0000000003be4210[0m
+                                                                                                                              ...[32m>[0m,
+                                                                                                                            @position[32m=[0m
+                                                                                                                             [[1;34m3[0m,
+                                                                                                                              [1;34m8[0m][32m>[0m],
+                                                                                                                         @parent[32m=[0m
+                                                                                                                          [32m#<KnightMovement:0x0000000003be4b48[0m
+                                                                                                                           ...[32m>[0m,
+                                                                                                                         @position[32m=[0m
+                                                                                                                          [[1;34m1[0m,
+                                                                                                                           [1;34m7[0m][32m>[0m,
+                                                                                                                        [32m#<KnightMovement:0x0000000003b4e990[0m
+                                                                                                                         @children[32m=[0m
+                                                                                                                          [],
+                                                                                                                         @parent[32m=[0m
+                                                                                                                          [32m#<KnightMovement:0x0000000003be4b48[0m
+                                                                                                                           ...[32m>[0m,
+                                                                                                                         @position[32m=[0m
+                                                                                                                          [[1;34m1[0m,
+                                                                                                                           [1;34m5[0m][32m>[0m,
+                                                                                                                        [32m#<KnightMovement:0x0000000003b4e120[0m
+                                                                                                                         @children[32m=[0m
+                                                                                                                          [],
+                                                                                                                         @parent[32m=[0m
+                                                                                                                          [32m#<KnightMovement:0x0000000003be4b48[0m
+                                                                                                                           ...[32m>[0m,
+                                                                                                                         @position[32m=[0m
+                                                                                                                          [[1;34m2[0m,
+                                                                                                                           [1;34m4[0m][32m>[0m],
+                                                                                                                      @parent[32m=[0m
+                                                                                                                       [32m#<KnightMovement:0x0000000003be5430[0m
+                                                                                                                        ...[32m>[0m,
+                                                                                                                      @position[32m=[0m
+                                                                                                                       [[1;34m3[0m,
+                                                                                                                        [1;34m6[0m][32m>[0m,
+                                                                                                                     [32m#<KnightMovement:0x0000000003b4c168[0m
+                                                                                                                      @children[32m=[0m
+                                                                                                                       [],
+                                                                                                                      @parent[32m=[0m
+                                                                                                                       [32m#<KnightMovement:0x0000000003be5430[0m
+                                                                                                                        ...[32m>[0m,
+                                                                                                                      @position[32m=[0m
+                                                                                                                       [[1;34m1[0m,
+                                                                                                                        [1;34m6[0m][32m>[0m],
+                                                                                                                   @parent[32m=[0m
+                                                                                                                    [32m#<KnightMovement:0x0000000003be5d68[0m
+                                                                                                                     ...[32m>[0m,
+                                                                                                                   @position[32m=[0m
+                                                                                                                    [[1;34m2[0m,
+                                                                                                                     [1;34m8[0m][32m>[0m,
+                                                                                                                  [32m#<KnightMovement:0x0000000003bfa920[0m
+                                                                                                                   @children[32m=[0m
+                                                                                                                    [],
+                                                                                                                   @parent[32m=[0m
+                                                                                                                    [32m#<KnightMovement:0x0000000003be5d68[0m
+                                                                                                                     ...[32m>[0m,
+                                                                                                                   @position[32m=[0m
+                                                                                                                    [[1;34m2[0m,
+                                                                                                                     [1;34m6[0m][32m>[0m,
+                                                                                                                  [32m#<KnightMovement:0x0000000003bfa0d8[0m
+                                                                                                                   @children[32m=[0m
+                                                                                                                    [],
+                                                                                                                   @parent[32m=[0m
+                                                                                                                    [32m#<KnightMovement:0x0000000003be5d68[0m
+                                                                                                                     ...[32m>[0m,
+                                                                                                                   @position[32m=[0m
+                                                                                                                    [[1;34m3[0m,
+                                                                                                                     [1;34m5[0m][32m>[0m],
+                                                                                                                @parent[32m=[0m
+                                                                                                                 [32m#<KnightMovement:0x0000000003be6600[0m
+                                                                                                                  ...[32m>[0m,
+                                                                                                                @position[32m=[0m
+                                                                                                                 [[1;34m4[0m,
+                                                                                                                  [1;34m7[0m][32m>[0m],
+                                                                                                             @parent[32m=[0m
+                                                                                                              [32m#<KnightMovement:0x0000000003be6e98[0m
+                                                                                                               ...[32m>[0m,
+                                                                                                             @position[32m=[0m
+                                                                                                              [[1;34m6[0m,
+                                                                                                               [1;34m8[0m][32m>[0m],
+                                                                                                          @parent[32m=[0m
+                                                                                                           [32m#<KnightMovement:0x0000000003be77d0[0m
+                                                                                                            ...[32m>[0m,
+                                                                                                          @position[32m=[0m
+                                                                                                           [[1;34m8[0m,
+                                                                                                            [1;34m7[0m][32m>[0m,
+                                                                                                         [32m#<KnightMovement:0x0000000003b47140[0m
+                                                                                                          @children[32m=[0m
+                                                                                                           [],
+                                                                                                          @parent[32m=[0m
+                                                                                                           [32m#<KnightMovement:0x0000000003be77d0[0m
+                                                                                                            ...[32m>[0m,
+                                                                                                          @position[32m=[0m
+                                                                                                           [[1;34m4[0m,
+                                                                                                            [1;34m7[0m][32m>[0m,
+                                                                                                         [32m#<KnightMovement:0x0000000003b468f8[0m
+                                                                                                          @children[32m=[0m
+                                                                                                           [],
+                                                                                                          @parent[32m=[0m
+                                                                                                           [32m#<KnightMovement:0x0000000003be77d0[0m
+                                                                                                            ...[32m>[0m,
+                                                                                                          @position[32m=[0m
+                                                                                                           [[1;34m4[0m,
+                                                                                                            [1;34m5[0m][32m>[0m],
+                                                                                                       @parent[32m=[0m
+                                                                                                        [32m#<KnightMovement:0x0000000003b6c0a8[0m
+                                                                                                         ...[32m>[0m,
+                                                                                                       @position[32m=[0m
+                                                                                                        [[1;34m6[0m,
+                                                                                                         [1;34m6[0m][32m>[0m],
+                                                                                                    @parent[32m=[0m
+                                                                                                     [32m#<KnightMovement:0x0000000003b6ca30[0m
+                                                                                                      ...[32m>[0m,
+                                                                                                    @position[32m=[0m
+                                                                                                     [[1;34m8[0m,
+                                                                                                      [1;34m5[0m][32m>[0m,
+                                                                                                   [32m#<KnightMovement:0x0000000003b44170[0m
+                                                                                                    @children[32m=[0m
+                                                                                                     [],
+                                                                                                    @parent[32m=[0m
+                                                                                                     [32m#<KnightMovement:0x0000000003b6ca30[0m
+                                                                                                      ...[32m>[0m,
+                                                                                                    @position[32m=[0m
+                                                                                                     [[1;34m4[0m,
+                                                                                                      [1;34m5[0m][32m>[0m,
+                                                                                                   [32m#<KnightMovement:0x0000000003bff8f8[0m
+                                                                                                    @children[32m=[0m
+                                                                                                     [],
+                                                                                                    @parent[32m=[0m
+                                                                                                     [32m#<KnightMovement:0x0000000003b6ca30[0m
+                                                                                                      ...[32m>[0m,
+                                                                                                    @position[32m=[0m
+                                                                                                     [[1;34m4[0m,
+                                                                                                      [1;34m3[0m][32m>[0m,
+                                                                                                   [32m#<KnightMovement:0x0000000003bff0b0[0m
+                                                                                                    @children[32m=[0m
+                                                                                                     [],
+                                                                                                    @parent[32m=[0m
+                                                                                                     [32m#<KnightMovement:0x0000000003b6ca30[0m
+                                                                                                      ...[32m>[0m,
+                                                                                                    @position[32m=[0m
+                                                                                                     [[1;34m7[0m,
+                                                                                                      [1;34m2[0m][32m>[0m],
+                                                                                                 @parent[32m=[0m
+                                                                                                  [32m#<KnightMovement:0x0000000003b6d318[0m
+                                                                                                   ...[32m>[0m,
+                                                                                                 @position[32m=[0m
+                                                                                                  [[1;34m6[0m,
+                                                                                                   [1;34m4[0m][32m>[0m,
+                                                                                                [32m#<KnightMovement:0x0000000003bfc928[0m
+                                                                                                 @children[32m=[0m
+                                                                                                  [],
+                                                                                                 @parent[32m=[0m
+                                                                                                  [32m#<KnightMovement:0x0000000003b6d318[0m
+                                                                                                   ...[32m>[0m,
+                                                                                                 @position[32m=[0m
+                                                                                                  [[1;34m6[0m,
+                                                                                                   [1;34m2[0m][32m>[0m],
+                                                                                              @parent[32m=[0m
+                                                                                               [32m#<KnightMovement:0x0000000003b6dbb0[0m
+                                                                                                ...[32m>[0m,
+                                                                                              @position[32m=[0m
+                                                                                               [[1;34m8[0m,
+                                                                                                [1;34m3[0m][32m>[0m],
+                                                                                           @parent[32m=[0m
+                                                                                            [32m#<KnightMovement:0x0000000003b6e538[0m
+                                                                                             ...[32m>[0m,
+                                                                                           @position[32m=[0m
+                                                                                            [[1;34m7[0m,
+                                                                                             [1;34m1[0m][32m>[0m,
+                                                                                          [32m#<KnightMovement:0x0000000003b3a918[0m
+                                                                                           @children[32m=[0m
+                                                                                            [],
+                                                                                           @parent[32m=[0m
+                                                                                            [32m#<KnightMovement:0x0000000003b6e538[0m
+                                                                                             ...[32m>[0m,
+                                                                                           @position[32m=[0m
+                                                                                            [[1;34m3[0m,
+                                                                                             [1;34m3[0m][32m>[0m,
+                                                                                          [32m#<KnightMovement:0x0000000003b3a0d0[0m
+                                                                                           @children[32m=[0m
+                                                                                            [],
+                                                                                           @parent[32m=[0m
+                                                                                            [32m#<KnightMovement:0x0000000003b6e538[0m
+                                                                                             ...[32m>[0m,
+                                                                                           @position[32m=[0m
+                                                                                            [[1;34m3[0m,
+                                                                                             [1;34m1[0m][32m>[0m,
+                                                                                          [32m#<KnightMovement:0x0000000003b39888[0m
+                                                                                           @children[32m=[0m
+                                                                                            [],
+                                                                                           @parent[32m=[0m
+                                                                                            [32m#<KnightMovement:0x0000000003b6e538[0m
+                                                                                             ...[32m>[0m,
+                                                                                           @position[32m=[0m
+                                                                                            [[1;34m6[0m,
+                                                                                             [1;34m4[0m][32m>[0m],
+                                                                                        @parent[32m=[0m
+                                                                                         [32m#<KnightMovement:0x0000000003b6ee70[0m
+                                                                                          ...[32m>[0m,
+                                                                                        @position[32m=[0m
+                                                                                         [[1;34m5[0m, [1;34m2[0m][32m>[0m,
+                                                                                       [32m#<KnightMovement:0x0000000003c03048[0m
+                                                                                        @children[32m=[0m
+                                                                                         [],
+                                                                                        @parent[32m=[0m
+                                                                                         [32m#<KnightMovement:0x0000000003b6ee70[0m
+                                                                                          ...[32m>[0m,
+                                                                                        @position[32m=[0m
+                                                                                         [[1;34m8[0m, [1;34m5[0m][32m>[0m,
+                                                                                       [32m#<KnightMovement:0x0000000003c02800[0m
+                                                                                        @children[32m=[0m
+                                                                                         [],
+                                                                                        @parent[32m=[0m
+                                                                                         [32m#<KnightMovement:0x0000000003b6ee70[0m
+                                                                                          ...[32m>[0m,
+                                                                                        @position[32m=[0m
+                                                                                         [[1;34m8[0m, [1;34m1[0m][32m>[0m],
+                                                                                     @parent[32m=[0m
+                                                                                      [32m#<KnightMovement:0x0000000003b6f848[0m
+                                                                                       ...[32m>[0m,
+                                                                                     @position[32m=[0m
+                                                                                      [[1;34m7[0m, [1;34m3[0m][32m>[0m,
+                                                                                    [32m#<KnightMovement:0x0000000003c00848[0m
+                                                                                     @children[32m=[0m[],
+                                                                                     @parent[32m=[0m
+                                                                                      [32m#<KnightMovement:0x0000000003b6f848[0m
+                                                                                       ...[32m>[0m,
+                                                                                     @position[32m=[0m
+                                                                                      [[1;34m3[0m, [1;34m5[0m][32m>[0m,
+                                                                                    [32m#<KnightMovement:0x0000000003b2bfa8[0m
+                                                                                     @children[32m=[0m[],
+                                                                                     @parent[32m=[0m
+                                                                                      [32m#<KnightMovement:0x0000000003b6f848[0m
+                                                                                       ...[32m>[0m,
+                                                                                     @position[32m=[0m
+                                                                                      [[1;34m3[0m, [1;34m3[0m][32m>[0m,
+                                                                                    [32m#<KnightMovement:0x0000000003b2b760[0m
+                                                                                     @children[32m=[0m[],
+                                                                                     @parent[32m=[0m
+                                                                                      [32m#<KnightMovement:0x0000000003b6f848[0m
+                                                                                       ...[32m>[0m,
+                                                                                     @position[32m=[0m
+                                                                                      [[1;34m6[0m, [1;34m6[0m][32m>[0m,
+                                                                                    [32m#<KnightMovement:0x0000000003b2af18[0m
+                                                                                     @children[32m=[0m[],
+                                                                                     @parent[32m=[0m
+                                                                                      [32m#<KnightMovement:0x0000000003b6f848[0m
+                                                                                       ...[32m>[0m,
+                                                                                     @position[32m=[0m
+                                                                                      [[1;34m6[0m, [1;34m2[0m][32m>[0m],
+                                                                                  @parent[32m=[0m
+                                                                                   [32m#<KnightMovement:0x0000000003be01d8[0m
+                                                                                    ...[32m>[0m,
+                                                                                  @position[32m=[0m
+                                                                                   [[1;34m5[0m, [1;34m4[0m][32m>[0m,
+                                                                                 [32m#<KnightMovement:0x0000000003c07f80[0m
+                                                                                  @children[32m=[0m[],
+                                                                                  @parent[32m=[0m
+                                                                                   [32m#<KnightMovement:0x0000000003be01d8[0m
+                                                                                    ...[32m>[0m,
+                                                                                  @position[32m=[0m
+                                                                                   [[1;34m8[0m, [1;34m7[0m][32m>[0m,
+                                                                                 [32m#<KnightMovement:0x0000000003c07738[0m
+                                                                                  @children[32m=[0m[],
+                                                                                  @parent[32m=[0m
+                                                                                   [32m#<KnightMovement:0x0000000003be01d8[0m
+                                                                                    ...[32m>[0m,
+                                                                                  @position[32m=[0m
+                                                                                   [[1;34m8[0m, [1;34m3[0m][32m>[0m],
+                                                                               @parent[32m=[0m
+                                                                                [32m#<KnightMovement:0x0000000003be0b60[0m
+                                                                                 ...[32m>[0m,
+                                                                               @position[32m=[0m[[1;34m7[0m, [1;34m5[0m][32m>[0m,
+                                                                              [32m#<KnightMovement:0x0000000003c05780[0m
+                                                                               @children[32m=[0m[],
+                                                                               @parent[32m=[0m
+                                                                                [32m#<KnightMovement:0x0000000003be0b60[0m
+                                                                                 ...[32m>[0m,
+                                                                               @position[32m=[0m[[1;34m3[0m, [1;34m5[0m][32m>[0m,
+                                                                              [32m#<KnightMovement:0x0000000003c04f38[0m
+                                                                               @children[32m=[0m[],
+                                                                               @parent[32m=[0m
+                                                                                [32m#<KnightMovement:0x0000000003be0b60[0m
+                                                                                 ...[32m>[0m,
+                                                                               @position[32m=[0m[[1;34m6[0m, [1;34m8[0m][32m>[0m,
+                                                                              [32m#<KnightMovement:0x0000000003c046f0[0m
+                                                                               @children[32m=[0m[],
+                                                                               @parent[32m=[0m
+                                                                                [32m#<KnightMovement:0x0000000003be0b60[0m
+                                                                                 ...[32m>[0m,
+                                                                               @position[32m=[0m[[1;34m6[0m, [1;34m4[0m][32m>[0m],
+                                                                            @parent[32m=[0m
+                                                                             [32m#<KnightMovement:0x0000000003be1448[0m
+                                                                              ...[32m>[0m,
+                                                                            @position[32m=[0m[[1;34m5[0m, [1;34m6[0m][32m>[0m,
+                                                                           [32m#<KnightMovement:0x0000000003b1dd40[0m
+                                                                            @children[32m=[0m[],
+                                                                            @parent[32m=[0m
+                                                                             [32m#<KnightMovement:0x0000000003be1448[0m
+                                                                              ...[32m>[0m,
+                                                                            @position[32m=[0m[[1;34m8[0m, [1;34m5[0m][32m>[0m],
+                                                                         @parent[32m=[0m
+                                                                          [32m#<KnightMovement:0x0000000003be1d30[0m
+                                                                           ...[32m>[0m,
+                                                                         @position[32m=[0m[[1;34m7[0m, [1;34m7[0m][32m>[0m,
+                                                                        [32m#<KnightMovement:0x0000000003b1c558[0m
+                                                                         @children[32m=[0m[],
+                                                                         @parent[32m=[0m
+                                                                          [32m#<KnightMovement:0x0000000003be1d30[0m
+                                                                           ...[32m>[0m,
+                                                                         @position[32m=[0m[[1;34m6[0m, [1;34m6[0m][32m>[0m],
+                                                                      @parent[32m=[0m
+                                                                       [32m#<KnightMovement:0x0000000003be2708[0m
+                                                                        ...[32m>[0m,
+                                                                      @position[32m=[0m[[1;34m5[0m, [1;34m8[0m][32m>[0m,
+                                                                     [32m#<KnightMovement:0x0000000003c0ad70[0m
+                                                                      @children[32m=[0m[],
+                                                                      @parent[32m=[0m
+                                                                       [32m#<KnightMovement:0x0000000003be2708[0m
+                                                                        ...[32m>[0m,
+                                                                      @position[32m=[0m[[1;34m5[0m, [1;34m6[0m][32m>[0m,
+                                                                     [32m#<KnightMovement:0x0000000003c0a528[0m
+                                                                      @children[32m=[0m[],
+                                                                      @parent[32m=[0m
+                                                                       [32m#<KnightMovement:0x0000000003be2708[0m
+                                                                        ...[32m>[0m,
+                                                                      @position[32m=[0m[[1;34m1[0m, [1;34m8[0m][32m>[0m,
+                                                                     [32m#<KnightMovement:0x0000000003c09ce0[0m
+                                                                      @children[32m=[0m[],
+                                                                      @parent[32m=[0m
+                                                                       [32m#<KnightMovement:0x0000000003be2708[0m
+                                                                        ...[32m>[0m,
+                                                                      @position[32m=[0m[[1;34m1[0m, [1;34m6[0m][32m>[0m,
+                                                                     [32m#<KnightMovement:0x0000000003c09498[0m
+                                                                      @children[32m=[0m[],
+                                                                      @parent[32m=[0m
+                                                                       [32m#<KnightMovement:0x0000000003be2708[0m
+                                                                        ...[32m>[0m,
+                                                                      @position[32m=[0m[[1;34m4[0m, [1;34m5[0m][32m>[0m],
+                                                                   @parent[32m=[0m
+                                                                    [32m#<KnightMovement:0x0000000003be3090[0m
+                                                                     ...[32m>[0m,
+                                                                   @position[32m=[0m[[1;34m3[0m, [1;34m7[0m][32m>[0m,
+                                                                  [32m#<KnightMovement:0x0000000003b1a320[0m
+                                                                   @children[32m=[0m[],
+                                                                   @parent[32m=[0m
+                                                                    [32m#<KnightMovement:0x0000000003be3090[0m
+                                                                     ...[32m>[0m,
+                                                                   @position[32m=[0m[[1;34m3[0m, [1;34m3[0m][32m>[0m,
+                                                                  [32m#<KnightMovement:0x0000000003b19ad8[0m
+                                                                   @children[32m=[0m[],
+                                                                   @parent[32m=[0m
+                                                                    [32m#<KnightMovement:0x0000000003be3090[0m
+                                                                     ...[32m>[0m,
+                                                                   @position[32m=[0m[[1;34m1[0m, [1;34m7[0m][32m>[0m,
+                                                                  [32m#<KnightMovement:0x0000000003b19290[0m
+                                                                   @children[32m=[0m[],
+                                                                   @parent[32m=[0m
+                                                                    [32m#<KnightMovement:0x0000000003be3090[0m
+                                                                     ...[32m>[0m,
+                                                                   @position[32m=[0m[[1;34m1[0m, [1;34m3[0m][32m>[0m],
+                                                                @parent[32m=[0m
+                                                                 [32m#<KnightMovement:0x0000000003be3a18[0m
+                                                                  ...[32m>[0m,
+                                                                @position[32m=[0m[[1;34m2[0m, [1;34m5[0m][32m>[0m,
+                                                               [32m#<KnightMovement:0x0000000003c0ead8[0m
+                                                                @children[32m=[0m[],
+                                                                @parent[32m=[0m
+                                                                 [32m#<KnightMovement:0x0000000003be3a18[0m
+                                                                  ...[32m>[0m,
+                                                                @position[32m=[0m[[1;34m5[0m, [1;34m6[0m][32m>[0m,
+                                                               [32m#<KnightMovement:0x0000000003c0e290[0m
+                                                                @children[32m=[0m[],
+                                                                @parent[32m=[0m
+                                                                 [32m#<KnightMovement:0x0000000003be3a18[0m
+                                                                  ...[32m>[0m,
+                                                                @position[32m=[0m[[1;34m5[0m, [1;34m2[0m][32m>[0m,
+                                                               [32m#<KnightMovement:0x0000000003c0da48[0m
+                                                                @children[32m=[0m[],
+                                                                @parent[32m=[0m
+                                                                 [32m#<KnightMovement:0x0000000003be3a18[0m
+                                                                  ...[32m>[0m,
+                                                                @position[32m=[0m[[1;34m3[0m, [1;34m6[0m][32m>[0m],
+                                                             @parent[32m=[0m
+                                                              [32m#<KnightMovement:0x0000000003b75310[0m
+                                                               ...[32m>[0m,
+                                                             @position[32m=[0m[[1;34m4[0m, [1;34m4[0m][32m>[0m,
+                                                            [32m#<KnightMovement:0x0000000003b0f038[0m
+                                                             @children[32m=[0m[],
+                                                             @parent[32m=[0m
+                                                              [32m#<KnightMovement:0x0000000003b75310[0m
+                                                               ...[32m>[0m,
+                                                             @position[32m=[0m[[1;34m3[0m, [1;34m5[0m][32m>[0m,
+                                                            [32m#<KnightMovement:0x0000000003b0de90[0m
+                                                             @children[32m=[0m[],
+                                                             @parent[32m=[0m
+                                                              [32m#<KnightMovement:0x0000000003b75310[0m
+                                                               ...[32m>[0m,
+                                                             @position[32m=[0m[[1;34m3[0m, [1;34m1[0m][32m>[0m,
+                                                            [32m#<KnightMovement:0x0000000003b0cf90[0m
+                                                             @children[32m=[0m[],
+                                                             @parent[32m=[0m
+                                                              [32m#<KnightMovement:0x0000000003b75310[0m
+                                                               ...[32m>[0m,
+                                                             @position[32m=[0m[[1;34m1[0m, [1;34m5[0m][32m>[0m],
+                                                          @parent[32m=[0m
+                                                           [32m#<KnightMovement:0x0000000003b75c98[0m
+                                                            ...[32m>[0m,
+                                                          @position[32m=[0m[[1;34m2[0m, [1;34m3[0m][32m>[0m,
+                                                         [32m#<KnightMovement:0x0000000003c124f8[0m
+                                                          @children[32m=[0m[],
+                                                          @parent[32m=[0m
+                                                           [32m#<KnightMovement:0x0000000003b75c98[0m
+                                                            ...[32m>[0m,
+                                                          @position[32m=[0m[[1;34m2[0m, [1;34m1[0m][32m>[0m,
+                                                         [32m#<KnightMovement:0x0000000003c11cb0[0m
+                                                          @children[32m=[0m[],
+                                                          @parent[32m=[0m
+                                                           [32m#<KnightMovement:0x0000000003b75c98[0m
+                                                            ...[32m>[0m,
+                                                          @position[32m=[0m[[1;34m5[0m, [1;34m4[0m][32m>[0m,
+                                                         [32m#<KnightMovement:0x0000000003c11468[0m
+                                                          @children[32m=[0m[],
+                                                          @parent[32m=[0m
+                                                           [32m#<KnightMovement:0x0000000003b75c98[0m
+                                                            ...[32m>[0m,
+                                                          @position[32m=[0m[[1;34m3[0m, [1;34m4[0m][32m>[0m],
+                                                       @parent[32m=[0m
+                                                        [32m#<KnightMovement:0x0000000003b765a8[0m ...[32m>[0m,
+                                                       @position[32m=[0m[[1;34m4[0m, [1;34m2[0m][32m>[0m,
+                                                      [32m#<KnightMovement:0x0000000003afde78[0m
+                                                       @children[32m=[0m[],
+                                                       @parent[32m=[0m
+                                                        [32m#<KnightMovement:0x0000000003b765a8[0m ...[32m>[0m,
+                                                       @position[32m=[0m[[1;34m7[0m, [1;34m3[0m][32m>[0m],
+                                                    @parent[32m=[0m
+                                                     [32m#<KnightMovement:0x0000000003b76e40[0m ...[32m>[0m,
+                                                    @position[32m=[0m[[1;34m6[0m, [1;34m1[0m][32m>[0m],
+                                                 @parent[32m=[0m[32m#<KnightMovement:0x0000000003b77868[0m ...[32m>[0m,
+                                                 @position[32m=[0m[[1;34m8[0m, [1;34m2[0m][32m>[0m,
+                                                [32m#<KnightMovement:0x0000000003c17b60[0m
+                                                 @children[32m=[0m[],
+                                                 @parent[32m=[0m[32m#<KnightMovement:0x0000000003b77868[0m ...[32m>[0m,
+                                                 @position[32m=[0m[[1;34m4[0m, [1;34m4[0m][32m>[0m,
+                                                [32m#<KnightMovement:0x0000000003c17318[0m
+                                                 @children[32m=[0m[],
+                                                 @parent[32m=[0m[32m#<KnightMovement:0x0000000003b77868[0m ...[32m>[0m,
+                                                 @position[32m=[0m[[1;34m4[0m, [1;34m2[0m][32m>[0m,
+                                                [32m#<KnightMovement:0x0000000003c16ad0[0m
+                                                 @children[32m=[0m[],
+                                                 @parent[32m=[0m[32m#<KnightMovement:0x0000000003b77868[0m ...[32m>[0m,
+                                                 @position[32m=[0m[[1;34m7[0m, [1;34m5[0m][32m>[0m,
+                                                [32m#<KnightMovement:0x0000000003c16288[0m
+                                                 @children[32m=[0m[],
+                                                 @parent[32m=[0m[32m#<KnightMovement:0x0000000003b77868[0m ...[32m>[0m,
+                                                 @position[32m=[0m[[1;34m7[0m, [1;34m1[0m][32m>[0m,
+                                                [32m#<KnightMovement:0x0000000003c15a40[0m
+                                                 @children[32m=[0m[],
+                                                 @parent[32m=[0m[32m#<KnightMovement:0x0000000003b77868[0m ...[32m>[0m,
+                                                 @position[32m=[0m[[1;34m5[0m, [1;34m1[0m][32m>[0m],
+                                              @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdc1a0[0m ...[32m>[0m,
+                                              @position[32m=[0m[[1;34m6[0m, [1;34m3[0m][32m>[0m,
+                                             [32m#<KnightMovement:0x0000000003af22a8[0m
+                                              @children[32m=[0m[],
+                                              @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdc1a0[0m ...[32m>[0m,
+                                              @position[32m=[0m[[1;34m7[0m, [1;34m2[0m][32m>[0m],
+                                           @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdcb28[0m ...[32m>[0m,
+                                           @position[32m=[0m[[1;34m8[0m, [1;34m4[0m][32m>[0m,
+                                          [32m#<KnightMovement:0x0000000003af0ac0[0m
+                                           @children[32m=[0m[],
+                                           @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdcb28[0m ...[32m>[0m,
+                                           @position[32m=[0m[[1;34m4[0m, [1;34m4[0m][32m>[0m,
+                                          [32m#<KnightMovement:0x0000000003af0278[0m
+                                           @children[32m=[0m[],
+                                           @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdcb28[0m ...[32m>[0m,
+                                           @position[32m=[0m[[1;34m7[0m, [1;34m7[0m][32m>[0m,
+                                          [32m#<KnightMovement:0x0000000003c1b9e0[0m
+                                           @children[32m=[0m[],
+                                           @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdcb28[0m ...[32m>[0m,
+                                           @position[32m=[0m[[1;34m7[0m, [1;34m3[0m][32m>[0m],
+                                        @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdd550[0m ...[32m>[0m,
+                                        @position[32m=[0m[[1;34m6[0m, [1;34m5[0m][32m>[0m,
+                                       [32m#<KnightMovement:0x0000000003c19258[0m
+                                        @children[32m=[0m[],
+                                        @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdd550[0m ...[32m>[0m,
+                                        @position[32m=[0m[[1;34m2[0m, [1;34m5[0m][32m>[0m,
+                                       [32m#<KnightMovement:0x0000000003c18a10[0m
+                                        @children[32m=[0m[],
+                                        @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdd550[0m ...[32m>[0m,
+                                        @position[32m=[0m[[1;34m5[0m, [1;34m8[0m][32m>[0m,
+                                       [32m#<KnightMovement:0x0000000003c181c8[0m
+                                        @children[32m=[0m[],
+                                        @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdd550[0m ...[32m>[0m,
+                                        @position[32m=[0m[[1;34m5[0m, [1;34m4[0m][32m>[0m,
+                                       [32m#<KnightMovement:0x0000000003ae3938[0m
+                                        @children[32m=[0m[],
+                                        @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdd550[0m ...[32m>[0m,
+                                        @position[32m=[0m[[1;34m3[0m, [1;34m8[0m][32m>[0m,
+                                       [32m#<KnightMovement:0x0000000003ae30f0[0m
+                                        @children[32m=[0m[],
+                                        @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdd550[0m ...[32m>[0m,
+                                        @position[32m=[0m[[1;34m3[0m, [1;34m4[0m][32m>[0m],
+                                     @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdde88[0m ...[32m>[0m,
+                                     @position[32m=[0m[[1;34m4[0m, [1;34m6[0m][32m>[0m,
+                                    [32m#<KnightMovement:0x0000000003c1f978[0m
+                                     @children[32m=[0m[],
+                                     @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdde88[0m ...[32m>[0m,
+                                     @position[32m=[0m[[1;34m3[0m, [1;34m5[0m][32m>[0m,
+                                    [32m#<KnightMovement:0x0000000003c1f130[0m
+                                     @children[32m=[0m[],
+                                     @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdde88[0m ...[32m>[0m,
+                                     @position[32m=[0m[[1;34m1[0m, [1;34m5[0m][32m>[0m],
+                                  @parent[32m=[0m[32m#<KnightMovement:0x0000000003bde7c0[0m ...[32m>[0m,
+                                  @position[32m=[0m[[1;34m2[0m, [1;34m7[0m][32m>[0m,
+                                 [32m#<KnightMovement:0x0000000003c1d178[0m
+                                  @children[32m=[0m[],
+                                  @parent[32m=[0m[32m#<KnightMovement:0x0000000003bde7c0[0m ...[32m>[0m,
+                                  @position[32m=[0m[[1;34m5[0m, [1;34m6[0m][32m>[0m,
+                                 [32m#<KnightMovement:0x0000000003c1c930[0m
+                                  @children[32m=[0m[],
+                                  @parent[32m=[0m[32m#<KnightMovement:0x0000000003bde7c0[0m ...[32m>[0m,
+                                  @position[32m=[0m[[1;34m3[0m, [1;34m6[0m][32m>[0m],
+                               @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdf990[0m ...[32m>[0m,
+                               @position[32m=[0m[[1;34m4[0m, [1;34m8[0m][32m>[0m,
+                              [32m#<KnightMovement:0x0000000003ad6350[0m
+                               @children[32m=[0m[],
+                               @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdf990[0m ...[32m>[0m,
+                               @position[32m=[0m[[1;34m4[0m, [1;34m6[0m][32m>[0m,
+                              [32m#<KnightMovement:0x0000000003ad5838[0m
+                               @children[32m=[0m[],
+                               @parent[32m=[0m[32m#<KnightMovement:0x0000000003bdf990[0m ...[32m>[0m,
+                               @position[32m=[0m[[1;34m7[0m, [1;34m5[0m][32m>[0m],
+                            @parent[32m=[0m[32m#<KnightMovement:0x0000000003b7c2c8[0m ...[32m>[0m,
+                            @position[32m=[0m[[1;34m6[0m, [1;34m7[0m][32m>[0m,
+                           [32m#<KnightMovement:0x0000000003c22998[0m
+                            @children[32m=[0m[],
+                            @parent[32m=[0m[32m#<KnightMovement:0x0000000003b7c2c8[0m ...[32m>[0m,
+                            @position[32m=[0m[[1;34m6[0m, [1;34m5[0m][32m>[0m],
+                         @parent[32m=[0m[32m#<KnightMovement:0x0000000003b7cca0[0m ...[32m>[0m,
+                         @position[32m=[0m[[1;34m8[0m, [1;34m6[0m][32m>[0m,
+                        [32m#<KnightMovement:0x0000000003c211b0[0m
+                         @children[32m=[0m[],
+                         @parent[32m=[0m[32m#<KnightMovement:0x0000000003b7cca0[0m ...[32m>[0m,
+                         @position[32m=[0m[[1;34m6[0m, [1;34m6[0m][32m>[0m],
+                      @parent[32m=[0m[32m#<KnightMovement:0x0000000003b7d718[0m ...[32m>[0m,
+                      @position[32m=[0m[[1;34m7[0m, [1;34m8[0m][32m>[0m,
+                     [32m#<KnightMovement:0x0000000003ac78c8[0m
+                      @children[32m=[0m[],
+                      @parent[32m=[0m[32m#<KnightMovement:0x0000000003b7d718[0m ...[32m>[0m,
+                      @position[32m=[0m[[1;34m3[0m, [1;34m8[0m][32m>[0m,
+                     [32m#<KnightMovement:0x0000000003ac6f18[0m
+                      @children[32m=[0m[],
+                      @parent[32m=[0m[32m#<KnightMovement:0x0000000003b7d718[0m ...[32m>[0m,
+                      @position[32m=[0m[[1;34m3[0m, [1;34m6[0m][32m>[0m,
+                     [32m#<KnightMovement:0x0000000003ac6540[0m
+                      @children[32m=[0m[],
+                      @parent[32m=[0m[32m#<KnightMovement:0x0000000003b7d718[0m ...[32m>[0m,
+                      @position[32m=[0m[[1;34m6[0m, [1;34m5[0m][32m>[0m,
+                     [32m#<KnightMovement:0x0000000003ac5bb8[0m
+                      @children[32m=[0m[],
+                      @parent[32m=[0m[32m#<KnightMovement:0x0000000003b7d718[0m ...[32m>[0m,
+                      @position[32m=[0m[[1;34m4[0m, [1;34m5[0m][32m>[0m],
+                   @parent[32m=[0m[32m#<KnightMovement:0x0000000003b7e550[0m ...[32m>[0m,
+                   @position[32m=[0m[[1;34m5[0m, [1;34m7[0m][32m>[0m,
+                  [32m#<KnightMovement:0x0000000003c26930[0m
+                   @children[32m=[0m[],
+                   @parent[32m=[0m[32m#<KnightMovement:0x0000000003b7e550[0m ...[32m>[0m,
+                   @position[32m=[0m[[1;34m8[0m, [1;34m8[0m][32m>[0m,
+                  [32m#<KnightMovement:0x0000000003c260e8[0m
+                   @children[32m=[0m[],
+                   @parent[32m=[0m[32m#<KnightMovement:0x0000000003b7e550[0m ...[32m>[0m,
+                   @position[32m=[0m[[1;34m8[0m, [1;34m4[0m][32m>[0m,
+                  [32m#<KnightMovement:0x0000000003c258a0[0m
+                   @children[32m=[0m[],
+                   @parent[32m=[0m[32m#<KnightMovement:0x0000000003b7e550[0m ...[32m>[0m,
+                   @position[32m=[0m[[1;34m6[0m, [1;34m8[0m][32m>[0m,
+                  [32m#<KnightMovement:0x0000000003c25058[0m
+                   @children[32m=[0m[],
+                   @parent[32m=[0m[32m#<KnightMovement:0x0000000003b7e550[0m ...[32m>[0m,
+                   @position[32m=[0m[[1;34m6[0m, [1;34m4[0m][32m>[0m],
+                @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd00a8[0m ...[32m>[0m,
+                @position[32m=[0m[[1;34m7[0m, [1;34m6[0m][32m>[0m,
+               [32m#<KnightMovement:0x0000000003ac14f0[0m
+                @children[32m=[0m[],
+                @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd00a8[0m ...[32m>[0m,
+                @position[32m=[0m[[1;34m3[0m, [1;34m6[0m][32m>[0m,
+               [32m#<KnightMovement:0x0000000003ac0c80[0m
+                @children[32m=[0m[],
+                @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd00a8[0m ...[32m>[0m,
+                @position[32m=[0m[[1;34m3[0m, [1;34m4[0m][32m>[0m,
+               [32m#<KnightMovement:0x0000000003ac0028[0m
+                @children[32m=[0m[],
+                @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd00a8[0m ...[32m>[0m,
+                @position[32m=[0m[[1;34m6[0m, [1;34m7[0m][32m>[0m,
+               [32m#<KnightMovement:0x0000000003c2b778[0m
+                @children[32m=[0m[],
+                @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd00a8[0m ...[32m>[0m,
+                @position[32m=[0m[[1;34m6[0m, [1;34m3[0m][32m>[0m,
+               [32m#<KnightMovement:0x0000000003c2af30[0m
+                @children[32m=[0m[],
+                @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd00a8[0m ...[32m>[0m,
+                @position[32m=[0m[[1;34m4[0m, [1;34m7[0m][32m>[0m,
+               [32m#<KnightMovement:0x0000000003c2a6e8[0m
+                @children[32m=[0m[],
+                @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd00a8[0m ...[32m>[0m,
+                @position[32m=[0m[[1;34m4[0m, [1;34m3[0m][32m>[0m],
+             @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd0a80[0m ...[32m>[0m,
+             @position[32m=[0m[[1;34m5[0m, [1;34m5[0m][32m>[0m,
+            [32m#<KnightMovement:0x0000000003a72418[0m
+             @children[32m=[0m[],
+             @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd0a80[0m ...[32m>[0m,
+             @position[32m=[0m[[1;34m8[0m, [1;34m6[0m][32m>[0m,
+            [32m#<KnightMovement:0x0000000003a71b08[0m
+             @children[32m=[0m[],
+             @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd0a80[0m ...[32m>[0m,
+             @position[32m=[0m[[1;34m8[0m, [1;34m2[0m][32m>[0m,
+            [32m#<KnightMovement:0x0000000003a71270[0m
+             @children[32m=[0m[],
+             @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd0a80[0m ...[32m>[0m,
+             @position[32m=[0m[[1;34m6[0m, [1;34m6[0m][32m>[0m,
+            [32m#<KnightMovement:0x0000000003a709d8[0m
+             @children[32m=[0m[],
+             @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd0a80[0m ...[32m>[0m,
+             @position[32m=[0m[[1;34m6[0m, [1;34m2[0m][32m>[0m],
+          @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd14f8[0m ...[32m>[0m,
+          @position[32m=[0m[[1;34m7[0m, [1;34m4[0m][32m>[0m,
+         [32m#<KnightMovement:0x0000000003c2d870[0m
+          @children[32m=[0m[],
+          @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd14f8[0m ...[32m>[0m,
+          @position[32m=[0m[[1;34m7[0m, [1;34m2[0m][32m>[0m,
+         [32m#<KnightMovement:0x0000000003c2d028[0m
+          @children[32m=[0m[],
+          @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd14f8[0m ...[32m>[0m,
+          @position[32m=[0m[[1;34m3[0m, [1;34m4[0m][32m>[0m,
+         [32m#<KnightMovement:0x0000000003c2c7e0[0m
+          @children[32m=[0m[],
+          @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd14f8[0m ...[32m>[0m,
+          @position[32m=[0m[[1;34m6[0m, [1;34m5[0m][32m>[0m,
+         [32m#<KnightMovement:0x0000000003a6ff10[0m
+          @children[32m=[0m[],
+          @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd14f8[0m ...[32m>[0m,
+          @position[32m=[0m[[1;34m6[0m, [1;34m1[0m][32m>[0m,
+         [32m#<KnightMovement:0x0000000003a6ea70[0m
+          @children[32m=[0m[],
+          @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd14f8[0m ...[32m>[0m,
+          @position[32m=[0m[[1;34m4[0m, [1;34m5[0m][32m>[0m,
+         [32m#<KnightMovement:0x0000000003a6df30[0m
+          @children[32m=[0m[],
+          @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd14f8[0m ...[32m>[0m,
+          @position[32m=[0m[[1;34m4[0m, [1;34m1[0m][32m>[0m],
+       @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd1ed0[0m ...[32m>[0m,
+       @position[32m=[0m[[1;34m5[0m, [1;34m3[0m][32m>[0m,
+      [32m#<KnightMovement:0x0000000003c31ec0[0m
+       @children[32m=[0m[],
+       @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd1ed0[0m ...[32m>[0m,
+       @position[32m=[0m[[1;34m5[0m, [1;34m1[0m][32m>[0m,
+      [32m#<KnightMovement:0x0000000003c31678[0m
+       @children[32m=[0m[],
+       @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd1ed0[0m ...[32m>[0m,
+       @position[32m=[0m[[1;34m1[0m, [1;34m3[0m][32m>[0m,
+      [32m#<KnightMovement:0x0000000003c30e30[0m
+       @children[32m=[0m[],
+       @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd1ed0[0m ...[32m>[0m,
+       @position[32m=[0m[[1;34m4[0m, [1;34m4[0m][32m>[0m,
+      [32m#<KnightMovement:0x0000000003c305e8[0m
+       @children[32m=[0m[],
+       @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd1ed0[0m ...[32m>[0m,
+       @position[32m=[0m[[1;34m2[0m, [1;34m4[0m][32m>[0m],
+    @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd31e0[0m ...[32m>[0m,
+    @position[32m=[0m[[1;34m3[0m, [1;34m2[0m][32m>[0m,
+   [32m#<KnightMovement:0x0000000003a68be8[0m
+    @children[32m=[0m[],
+    @parent[32m=[0m[32m#<KnightMovement:0x0000000003bd31e0[0m ...[32m>[0m,
+    @position[32m=[0m[[1;34m2[0m, [1;34m3[0m][32m>[0m],
+ @parent[32m=[0m[1;36mnil[0m,
+ @position[32m=[0m[[1;34m1[0m, [1;34m1[0m][32m>[0m
